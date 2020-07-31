@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 stash file
 
+=======
+Hi everybody, welcome. We are glad you are here!
+>>>>>>> 7bb6f99a454e566c6ce4dcd95d44809b9fdd361c
